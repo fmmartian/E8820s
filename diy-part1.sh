@@ -17,4 +17,3 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 #git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-adguardhome
 #git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-aliddns
-git clone https://github.com/liuran001/openwrt-packages
