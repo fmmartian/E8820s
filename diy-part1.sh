@@ -19,4 +19,4 @@
 #git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-aliddns
 #git clone https://github.com/kenzok8/openwrt-packages
 git clone https://github.com/ntlf9t/luci-app-easymesh
-git clone https://github.com/liuran001/openwrt-packages.git
+#git clone https://github.com/liuran001/openwrt-packages.git
