@@ -18,9 +18,9 @@
 git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-adguardhome
 git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-aliddns
 #git clone https://github.com/kenzok8/openwrt-packages
-git clone https://github.com/ntlf9t/luci-app-easymesh
 #git clone https://github.com/liuran001/openwrt-packages.git
-git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-aliyundrive-webdav
-git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-vssr
-git clone https://github.com/liuran001/openwrt-packages.git package/luci-theme-edge
-git clone https://github.com/liuran001/openwrt-packages.git package/iptvhelper
+#git clone https://github.com/ntlf9t/luci-app-easymesh
+#git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-aliyundrive-webdav
+#git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-vssr
+#git clone https://github.com/liuran001/openwrt-packages.git package/luci-theme-edge
+#git clone https://github.com/liuran001/openwrt-packages.git package/iptvhelper
